@@ -1,3 +1,15 @@
+##Required Data
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
+##Required libraries
+dplyr
+data.table
+
+##To use
+1. Unzip data into your working directory
+2. Run the plot scripts by commandline or in R Studio
+
+
 ## Introduction
 
 This assignment uses data from
